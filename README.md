@@ -18,73 +18,47 @@ Contact  |  Footer
 
 
 
-# Getting Started with Create React App
+Basil Scaria Varghese
+Barrie,ON Canada | P: +1 6474697653 | Mail: basilsv@gmail.com | LinkedIn: https://www.linkedin.com/in/basilsv Website: https://basilsvportfolio.netlify.app/ |Github: https://github.com/basilsv
+Skilled Software Engineer with skill sets in JS frameworks like Svelte, React and Vue along with an eye for detail. Along with front end technologies also proficient in NoSQL and SQL data
+processing. Data Analytics and AI are also among my passions.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+WORK EXPERIENCE
+SIVA CREATIVE– BARRIE, ON, Canada, Web Developer
+• Build 10+ Websites using Page Builders like Elementor, Beaver and Divi
+Aug2020 – May 2022
+• PHP and JavaScript for custom web solutions, 7+ plugins, Data processing from start to finish
+• Successfully used WordPress hooks to tweak CSS and plugin properties, 3+ webhooks for 3rd party applications
+• Implemented CPT with custom fields and used data to display points on Leaflet Map on Directory website
+CYSTIC FIBROSIS CA – Toronto, ON, Canada, Database and Digital Platform Associate Mar 2020 – Jun 2020
+• Querying and Reporting on Fund Raising Data for weekly reports on 5+ events, Blackbaud and platforms
+• Comparison analysis of yearly performance of Donations, Registrations and Favorite Donors for 5+ events
+• NLP and Artificial Intelligence Solutions for solving 2 NER Related Problems for maintaining clean database
+• Coaching for team members with Excel for reporting, charts and use of 3 automated python executables
+EXPONENTIAL DIGITAL SOLUTIONS – Trivandrum, India, Analytics Consultant May 2018 - July 2018
+• Lead team to strategize and implement pre-sales Power BI dashboards for 6 different clients
+• Managed and maintained 2 clients Backend AWS VM and PostgreSQL database
+• Integrated 11 custom Data Science algorithms into Python scripts
+• Participated in daily meetings to present prediction accuracies and prediction model integrity
+Achievements
+Created 2 Full Stack Analytics Reporting Engine and documentation to handle Data Science algorithms universally
+TRAVANCORE ANALYTICS, Software Engineer/Data Analyst - Trivandrum, India July 2016 - July 2017
+• Wrote Python, R script and SQL Server to implement Full Stack Analytics Engines for 3 Retail Clients
+• Collaborated with R&D team to develop 3 chat bots, 7 web scrapping ops and suggestion ranking systems
+• Reliably set up version control process in SVN & Git repositories
+Achievements
+HTC Sentiment Analysis Project – Crawled, feature extracted 1 GB of User reviews, Sentiment Analysis reports. Information Scraper – Scraped 300,000 unique personnel data for client prospecting from online directories
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+PROJECTS
+Data Analytics: Built an analytics engine that generate reports and automatically deliver to 3+ clients.
+Artificial Intelligence: Developed 2 virtual assistant chatbot that interacts with an end user Mobile Application Development:1 travel application to calculate optimum route SCM React-Native: Developed 1 event managing application using firebase real time database.
+SKILLS
+Technical: Python, R, C#, PHPJavaScript, React Native, HTML, CSS, Swift4, SQL, PostgreSQL, Firebase, Amazon S3, Mongo DB, Azure, Anaconda, MS Office, R Studio, Power BI, Tableau, Visual Studio, XCode, Android Studio,Wordpress Data Science Algorithms: RFM, Pareto, Customer Profitability Analysis, Expenditure Deviation, Sales Forecasting, Prediction Modelling, Time Series Modelling, Clustering Algorithms, Classification and Regression Modelling.
+ADDITIONAL EXPERIENCE
+WALMART, CANADA, Customer Service Manager (Part-Time)
+June 2019 – Dec 2019
+BYJUS, Business Development Associate
+EDUCATION
+(Part- Time)
+Oct 2017 – May 2018
+Mobile Application Development at Georgian College, Canada (Honors) April 2019 – December 2019 Big Data Analytics at Georgian College, Canada (Honors) September 2018 - April 2019 Bachelor's in Computer Science and Engineering at T.K.M College of Engineering (First Class) 2012-2016
