@@ -2,7 +2,20 @@
 
 Home           |  About
 :-------------------------:|:-------------------------:
-![](https://github.com/basilsv/Basil-S-V-Portfolio/blob/main/src/assets/portfolio11.png)  |  ![](https://github.com/basilsv/Basil-S-V-Portfolio/blob/main/src/assets/portfolio11.png)
+![](https://github.com/basilsv/Basil-S-V-Portfolio/blob/main/src/assets/portfolio11.png)  |  ![](https://github.com/basilsv/Basil-S-V-Portfolio/blob/main/src/assets/aboutss.png)
+
+Experience       |  Services
+:-------------------------:|:-------------------------:
+![](https://github.com/basilsv/Basil-S-V-Portfolio/blob/main/src/assets/experiencess.png)  |  ![](https://github.com/basilsv/Basil-S-V-Portfolio/blob/main/src/assets/servicesss.png)
+
+Portfolio     |  Testimonials
+:-------------------------:|:-------------------------:
+![](https://github.com/basilsv/Basil-S-V-Portfolio/blob/main/src/assets/portfolioss.png)  |  ![](https://github.com/basilsv/Basil-S-V-Portfolio/blob/main/src/assets/testimonialsss.png)
+
+Contact  |  Footer
+:-------------------------:|:-------------------------:
+![](https://github.com/basilsv/Basil-S-V-Portfolio/blob/main/src/assets/contactss.png)  |  ![](https://github.com/basilsv/Basil-S-V-Portfolio/blob/main/src/assets/footerss.png)
+
 
 
 # Getting Started with Create React App
