@@ -1,6 +1,6 @@
 #ReactJS Portfolio Preview
 
-Solarized dark             |  Solarized Ocean
+Home           |  About
 :-------------------------:|:-------------------------:
 ![](https://github.com/basilsv/Basil-S-V-Portfolio/blob/main/src/assets/portfolio11.png)  |  ![](https://github.com/basilsv/Basil-S-V-Portfolio/blob/main/src/assets/portfolio11.png)
 
