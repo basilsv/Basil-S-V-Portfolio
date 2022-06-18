@@ -1,3 +1,10 @@
+#ReactJS Portfolio Preview
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/basilsv/Basil-S-V-Portfolio/blob/main/src/assets/portfolio11.png)  |  ![](https://github.com/basilsv/Basil-S-V-Portfolio/blob/main/src/assets/portfolio11.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
